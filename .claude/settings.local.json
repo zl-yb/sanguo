@@ -32,7 +32,14 @@
       "Bash(gh pr diff:*)",
       "Bash(gh pr checkout:*)",
       "Bash(git checkout:*)",
-      "Bash(gh pr review:*)"
+      "Bash(gh pr review:*)",
+      "Bash(gws:*)",
+      "Bash(python:*)",
+      "Bash(kill 91286:*)",
+      "mcp__claude_ai_Excalidraw__read_me",
+      "mcp__claude_ai_Excalidraw__create_view",
+      "Bash(open:*)",
+      "mcp__claude_ai_Excalidraw__export_to_excalidraw"
     ]
   }
 }
